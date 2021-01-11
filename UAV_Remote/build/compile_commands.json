@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/UAV_Remote.dir/main.cpp.o -c /Users/jimli/Desktop/DP/CS/IA/UAV_Remote/main.cpp",
+  "file": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/main.cpp"
+},
+{
+  "directory": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/UAV_Remote.dir/AutoPilot.cpp.o -c /Users/jimli/Desktop/DP/CS/IA/UAV_Remote/AutoPilot.cpp",
+  "file": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/AutoPilot.cpp"
+},
+{
+  "directory": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/UAV_Remote.dir/Networking.cpp.o -c /Users/jimli/Desktop/DP/CS/IA/UAV_Remote/Networking.cpp",
+  "file": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/Networking.cpp"
+},
+{
+  "directory": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/UAV_Remote.dir/ImageProcessing.cpp.o -c /Users/jimli/Desktop/DP/CS/IA/UAV_Remote/ImageProcessing.cpp",
+  "file": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/ImageProcessing.cpp"
+},
+{
+  "directory": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/UAV_Remote.dir/GrabFrame.cpp.o -c /Users/jimli/Desktop/DP/CS/IA/UAV_Remote/GrabFrame.cpp",
+  "file": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/GrabFrame.cpp"
+},
+{
+  "directory": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/UAV_Remote.dir/ControlSys.cpp.o -c /Users/jimli/Desktop/DP/CS/IA/UAV_Remote/ControlSys.cpp",
+  "file": "/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/ControlSys.cpp"
+}
+]

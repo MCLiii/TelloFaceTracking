@@ -1,0 +1,3 @@
+/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build/CMakeFiles/rebuild_cache.dir
+/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build/CMakeFiles/edit_cache.dir
+/Users/jimli/Desktop/DP/CS/IA/UAV_Remote/build/CMakeFiles/UAV_Remote.dir
