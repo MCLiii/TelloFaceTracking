@@ -1,5 +1,5 @@
 # TelloFaceTracking
 Facial Tracking Feature For Tello
 
-#requirements
+# requirements
 Opencv, Qt
